@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-I’m a full-spectrum Data Professional with expertise spanning the entire data lifecycle, from engineering large-scale architectures, to analyzing patterns, to building AI-powered solutions that drive real business impact.
-With hands-on experience across Generative AI, Machine Learning, Data Science, and robust Data Engineering, I specialize in creating intelligent, scalable systems that turn ideas into outcomes. I am interested in building high-performance data systems, building ML models, and exploring the intersection of data, markets, and decision-making.
+I’m **Sarthak Padhi**, a full-spectrum Data Professional with expertise across the entire data lifecycle,  from engineering large-scale architectures, to analyzing patterns, to building AI-powered systems that drive real business impact.
 
-- 🌱 I’m currently learning applications in the intersection of finance and technology. Some works that I am excited to show are the [AlphAgent]{https://github.com/sarthakpadhi/AlphaAgent} Implementation and OrderBook Implementation. I am currently looking into system designs for low-latency systems for market data ingestion. 
-- 📫 How to reach me: ✉️ sarthakpadhi2016@gmail.com
+With hands-on experience in **Generative AI, Machine Learning, Data Science, and robust Data Engineering**, I specialize in creating intelligent, scalable systems that turn ideas into outcomes. I’m particularly interested in building **high-performance data systems**, designing **ML models**, and exploring the intersection of **data, markets, and decision-making**.
+
+- 🌱 I’m currently learning about applications at the intersection of **finance and technology**. Some projects I’m excited to share include my [AlphaAgent](https://github.com/sarthakpadhi/AlphaAgent) implementation and my **Order Book implementation**. I’m also exploring **system design for ultra-low-latency market data ingestion**.  
+- 📫 How to reach me: ✉️ **sarthakpadhi2016@gmail.com**
+
 
 <!--
 **sarthakpadhi/sarthakpadhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
