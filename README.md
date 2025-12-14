@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I am Sarthak Padhi, a SoftwareEngineer in Pune, working with Agentic AI infrastructure and Data Solutions at Turtelmint. 
+I’m a full-spectrum Data Professional with expertise spanning the entire data lifecycle, from engineering large-scale architectures, to analyzing patterns, to building AI-powered solutions that drive real business impact.
+With hands-on experience across Generative AI, Machine Learning, Data Science, and robust Data Engineering, I specialize in creating intelligent, scalable systems that turn ideas into outcomes. I am interested in building high-performance data systems, building ML models, and exploring the intersection of data, markets, and decision-making.
 
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
