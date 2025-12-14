@@ -4,8 +4,9 @@ I’m **Sarthak Padhi**, a full-spectrum Data Professional with expertise across
 
 With hands-on experience in **Generative AI, Machine Learning, Data Science, and robust Data Engineering**, I specialize in creating intelligent, scalable systems that turn ideas into outcomes. I’m particularly interested in building **high-performance data systems**, designing **ML models**, and exploring the intersection of **data, markets, and decision-making**.
 
-- 🌱 I’m currently learning about applications at the intersection of **finance and technology**. Some projects I’m excited to share include my [AlphaAgent](https://github.com/sarthakpadhi/AlphaAgent) implementation and my **Order Book implementation**. I’m also exploring **system design for ultra-low-latency market data ingestion**.  
-- 📫 How to reach me: ✉️ **sarthakpadhi2016@gmail.com**
+Some projects I’m excited to share include my [AlphaAgent](https://github.com/sarthakpadhi/AlphaAgent) implementation and my **Order Book implementation**. I’m also exploring **system design for ultra-low-latency market data ingestion**.  
+
+📫 How to reach me: ✉️ **sarthakpadhi2016@gmail.com**
 
 
 <!--
