@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Sarthak Padhi, a SoftwareEngineer in Pune, working with Agentic AI infrastructure and Data Solutions at Turtelmint. 
+
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: ...
+
 <!--
 **sarthakpadhi/sarthakpadhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
